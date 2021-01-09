@@ -1,4 +1,4 @@
-                                                          Face Recognition And Detection
+                                                          FACE RECOGNITION AND DETECTION
                                                                 
 To create a complete project on Face Recognition, we must work on 3 very distinct phases:
 •	Face Detection and Data Gathering
